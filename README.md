@@ -1,4 +1,5 @@
-# Matplotlib-Homework{
+# Matplotlib-Homework
+{
  "cells": [
   {
    "cell_type": "code",
